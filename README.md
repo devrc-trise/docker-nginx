@@ -1,6 +1,6 @@
 docker-nginx
 ============
-#### Build and push to jenkins' own private registry
+#### Build
 
     $ sudo docker build -t musashi/nginx .
 
